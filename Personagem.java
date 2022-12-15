@@ -6,6 +6,7 @@ public class Personagem {
     public int ataque;
     public int armadura;
     public Arma arma;
+    public int stuned;
 
     public void set_arma(String tipo){
         if(tipo.equals("1")){

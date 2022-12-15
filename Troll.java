@@ -1,8 +1,8 @@
 public class Troll extends Personagem{
     public Troll(){
         tipo = "Troll";
-        vida = 2000;
-        ataque = 200;
+        vida = 2200;
+        ataque = 150;
         armadura = 80;
     }
     public void set_arma(String tipo_arma){

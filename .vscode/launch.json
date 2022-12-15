@@ -9,6 +9,13 @@
             "name": "Launch Jogo",
             "request": "launch",
             "mainClass": "Jogo",
+            "projectName": "Projeto-Elfos_f9be5ab1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jogo",
+            "request": "launch",
+            "mainClass": "Jogo",
             "projectName": "Projeto-Elfos_3b4f0e20"
         },
         {

@@ -1,9 +1,9 @@
 public class Elfo extends Personagem{
     public Elfo(){
         tipo = "Elfo";
-        vida = 2000;
-        ataque = 200;
-        armadura = 80;
+        vida = 1800;
+        ataque = 300;
+        armadura = 30;
     }
 
 

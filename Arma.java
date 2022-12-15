@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Arma {
+public class Arma implements ArmaInterface {
     public Map<String, Map<String, Integer>> ataques = new HashMap<String, Map<String, Integer>>();
     public Map<String, Map<String, Integer>> em_cooldown = new HashMap<String, Map<String, Integer>>();
 
